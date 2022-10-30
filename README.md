@@ -1,1 +1,4 @@
 # Exploring-Gun-Deaths-in-the-US
+This project seeks to explore the number of gun deaths in the US Aover a specified period of time by taking cognizance of gun death per sex and by race of people living in the United States. Firstly, we introduced US Gun Deaths Data and then counted gun deaths per month and year. And then sought to explore our findings per sex and race of people living in the United States. It was discovered that gun deaths in the US seem to disproportionately affect men vs women. They also seem to disproportionately affect minorities, although having some data on the percentage of each race in the overall US population would help.
+
+There appears to be a minor seasonal correlation, with gun deaths peaking in the summer and declining in the winter. It might be useful to filter by intent, to see if different categories of intent have different correlations with season, race, or gender.
